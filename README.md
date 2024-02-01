@@ -23,6 +23,9 @@ The smart stick is integrated with ultrasonic sensor along with water sensing se
 
 
 **PROJECT IMAGES:**
+
+
+
 ![image](https://github.com/sruti-parthipan/SMART_STICK_MICROCONTROLLERS/assets/140324166/8b98fc32-17bf-4cf4-abdc-ce9b8426a610)
 
 
